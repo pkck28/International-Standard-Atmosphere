@@ -1,5 +1,5 @@
 # International-Standard-Atmosphere
-It is a java code where you can input the altitutde and get the corresponding pressure,temperature and density.
+Program where you can input the altitutde and get the corresponding pressure,temperature and density.
 
 ## ISA :-
 It is an internationally accepted model which is used to get standard Pressure, Temperature, and Density at a particular altitude. It is used widely in aviation.
